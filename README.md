@@ -1,10 +1,12 @@
 **SHIFTEd**: **Decentralized Framework for Autonomous Data & AI Evolution**
 
-![Screenshot 2024-12-03 at 5 42 32 PM](https://github.com/user-attachments/assets/e18ce36e-9d24-4f44-bd89-343639f8b793)
-
 SHIFTEd is an open-source, decentralized project designed to empower developers, researchers, and organizations to create and deploy dynamic AI agents tethered to evolving datasets. SHIFTEd is not just a framework; it is a movement to redefine how data and AI coexist, adapt, and integrate into a rapidly shifting digital ecosystem.
 
 With a focus on autonomy, scalability, and data integrity, SHIFTEd enables seamless interaction between distributed networks and AI tools. The platform facilitates real-time decision-making, adaptive workflows, and unparalleled integration with next-generation AI technologies.
+
+
+https://github.com/user-attachments/assets/a4b64a4c-733f-4e11-8bf6-8f6bce0ab6b9
+
 
 _Mission_
 
