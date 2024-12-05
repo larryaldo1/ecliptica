@@ -1,16 +1,16 @@
-# NOVA PROTOCOL
+# INFINITE ARC
 
-**About NOVA PROTOCOL**
+**About INFINITE ARC**
 
-NOVA PROTOCOL is an open-source, decentralized framework empowering developers, researchers, and organizations to build and deploy adaptive AI agents. These agents are designed to integrate seamlessly into decentralized ecosystems, evolve with real-time data, and autonomously drive innovation.
+INFINITE ARC is an open-source, decentralized framework designed to empower developers, researchers, and organizations to build and deploy adaptive AI agents. These agents seamlessly integrate into decentralized ecosystems, evolve with real-time data, and autonomously drive innovation.
 
-NOVA PROTOCOL redefines the intersection of intelligence and decentralization, creating a new standard for how AI agents interact, adapt, and scale within dynamic digital environments.
+INFINITE ARC redefines the intersection of intelligence and decentralization, establishing a new standard for how AI agents interact, adapt, and scale within dynamic digital environments.
 
-https://github.com/user-attachments/assets/ddc7d314-c87d-4b27-8ac3-0f15a2ed22cd
+![Gd7VeTsa0AQcA3t](https://github.com/user-attachments/assets/975b63d8-8fa9-4dfe-b445-71fa4bedfb06)
 
 **Mission**
 
-To pioneer a decentralized ecosystem that fosters collaboration, autonomy, and scalability for AI-driven workflows. NOVA PROTOCOL is built to bridge innovation and inclusivity while promoting responsible AI integration.
+To pioneer a decentralized ecosystem that fosters collaboration, autonomy, and scalability for AI-driven workflows. INFINITE ARC is built to bridge innovation and inclusivity while promoting responsible AI integration.
 
 **Vision**
 
@@ -40,12 +40,11 @@ To become the global standard for decentralized AI agent frameworks, ensuring ag
 
 Learn more and join the revolution:
 
-🌐 https://novaprotocol.tech
-📚 https://github.com/larryaldo1/novaprotocol
-❌ https://x.com/novaprotocol_
+📚 https://github.com/larryaldo1/infinitearc
+❌ https://x.com/infinitearc_
 
-The NOVA starts now. 🚀
+The arc begins now. 🌌
 
 **License**
 
-NOVA PROTOCOL is released under the MIT license. See the LICENSE file for details.
+INFINITE ARC is released under the MIT license. See the LICENSE file for details.
