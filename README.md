@@ -41,7 +41,8 @@ To become the global standard for decentralized AI agent frameworks, ensuring ag
 Learn more and join the revolution:
 
 📚 https://github.com/larryaldo1/infinitearc
-❌ https://x.com/infinitearc_
+
+❌ https://x.com/infinitearc
 
 The arc begins now. 🌌
 
