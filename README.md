@@ -1,16 +1,16 @@
-# INFINITE ARC
+# INFINIA ARC
 
-**About INFINITE ARC**
+**About INFINIA ARC**
 
-INFINITE ARC is an open-source, decentralized framework designed to empower developers, researchers, and organizations to build and deploy adaptive AI agents. These agents seamlessly integrate into decentralized ecosystems, evolve with real-time data, and autonomously drive innovation.
+INFINIA ARC is an open-source, decentralized framework designed to empower developers, researchers, and organizations to build and deploy adaptive AI agents. These agents seamlessly integrate into decentralized ecosystems, evolve with real-time data, and autonomously drive innovation.
 
-INFINITE ARC redefines the intersection of intelligence and decentralization, establishing a new standard for how AI agents interact, adapt, and scale within dynamic digital environments.
+INFINIA ARC redefines the intersection of intelligence and decentralization, establishing a new standard for how AI agents interact, adapt, and scale within dynamic digital environments.
 
-![Gd7VeTsa0AQcA3t](https://github.com/user-attachments/assets/975b63d8-8fa9-4dfe-b445-71fa4bedfb06)
+![X3ywCkjp_400x400](https://github.com/user-attachments/assets/87f1a4f8-1a7e-49d3-a1fb-f870e3add7f2)
 
 **Mission**
 
-To pioneer a decentralized ecosystem that fosters collaboration, autonomy, and scalability for AI-driven workflows. INFINITE ARC is built to bridge innovation and inclusivity while promoting responsible AI integration.
+To pioneer a decentralized ecosystem that fosters collaboration, autonomy, and scalability for AI-driven workflows. INFINIA ARC is built to bridge innovation and inclusivity while promoting responsible AI integration.
 
 **Vision**
 
