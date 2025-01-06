@@ -1,1 +1,32 @@
+# app.py
 
+from flask import Flask, render_template, request, jsonify
+from apis import BlockchainAPI
+
+app = Flask(__name__)
+blockchain_api = BlockchainAPI()
+
+@app.route("/")
+def index():
+    return render_template("index.html", blockchains=blockchain_api.list_supported_blockchains())
+
+@app.route("/fetch-data", methods=["POST"])
+def fetch_data():
+    try:
+        blockchain_name = request.form.get("blockchain")
+        address = request.form.get("address")
+        
+        client = blockchain_api.get_client(blockchain_name)
+        if blockchain_name == "Ethereum" or blockchain_name == "Binance Smart Chain":
+            transactions = client.fetch_latest_transactions(address)
+            return jsonify({"success": True, "data": transactions})
+        elif blockchain_name == "Solana":
+            account_data = client.fetch_account_data(address)
+            return jsonify({"success": True, "data": account_data})
+        else:
+            return jsonify({"success": False, "message": "Unsupported blockchain."})
+    except Exception as e:
+        return jsonify({"success": False, "message": str(e)})
+
+if __name__ == "__main__":
+    app.run(debug=True)
