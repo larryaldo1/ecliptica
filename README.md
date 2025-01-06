@@ -3,6 +3,8 @@ _**Redefining Blockchain Intelligence Through Quantum Precision**_
 
 ---
 
+<img width="1245" alt="Screenshot 2025-01-06 at 1 20 17 PM" src="https://github.com/user-attachments/assets/b9a74308-1d77-4964-b4e4-f8ec980fef98" />
+
 ## 🌌 Overview  
 Ecliptica AI isn't just a blockchain analytics platform; it's a quantum-powered revolution.  
 By blending **quantum computing**, **pattern recognition**, and **cross-chain intelligence**,  
@@ -38,3 +40,4 @@ Whether you're a developer, trader, or blockchain visionary, Ecliptica AI is you
 ├── docs/                     # Documentation and guides
 ├── configs/                  # Config files for blockchain and quantum modules
 └── README.md                 # Project overview (this file)
+
