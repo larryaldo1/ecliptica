@@ -1,9 +1,10 @@
-# 🐾 Kuma AI 
+# 🐾 Kuma Agent 
 _**Master the Solana Memecoin Market with Precision and Privacy**_
 
 ---
 
-<img width="1245" alt="Screenshot 2025-01-06 at 1 20 17 PM" src="https://github.com/user-attachments/assets/b9a74308-1d77-4964-b4e4-f8ec980fef98" />
+<img width="1145" alt="Screenshot 2025-01-09 at 11 11 38 AM" src="https://github.com/user-attachments/assets/7f337e0c-9c20-4ec9-b389-d177866f4104" />
+
 
 ## 🌌 Overview  
 Kuma AI is a next-generation AI-powered trading bot designed to simplify and dominate the world of Solana memecoins.
