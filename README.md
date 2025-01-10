@@ -1,21 +1,21 @@
-# 🐾 Kuma Agent 
+# 🪐 Kairos Agent
 _**Master the Solana Memecoin Market with Precision and Privacy**_
 
 ---
 
-<img width="1145" alt="Screenshot 2025-01-09 at 11 11 38 AM" src="https://github.com/user-attachments/assets/7f337e0c-9c20-4ec9-b389-d177866f4104" />
+<img width="1313" alt="Screenshot 2025-01-10 at 12 26 11 PM" src="https://github.com/user-attachments/assets/f083777b-c0aa-4545-a856-9144f4263226" />
 
 
 ## 🌌 Overview  
-Kuma AI is a next-generation AI-powered trading bot designed to simplify and dominate the world of Solana memecoins.
-By blending AI-driven analytics, automated strategies, and privacy-focused features, Kuma AI empowers you to trade smarter and faster.
+Kairos AI is a next-generation AI-powered trading bot designed to simplify and dominate the world of Solana memecoins.
+By blending AI-driven analytics, automated strategies, and privacy-focused features, Kairos AI empowers you to trade smarter and faster.
 
 
 ⚡ **_Identify trends in real-time._**  
 ⏱️ **_Trade securely with advanced privacy tools._**  
 🎯 **_Leverage AI for unparalleled market insights._**
 
-Whether you’re a seasoned trader or new to memecoins, Kuma AI equips you with the tools to succeed in the fast-paced decentralized trading landscape.
+Whether you’re a seasoned trader or new to memecoins, Kairos AI equips you with the tools to succeed in the fast-paced decentralized trading landscape.
 
 ---
 
@@ -35,7 +35,7 @@ Whether you’re a seasoned trader or new to memecoins, Kuma AI equips you with 
 
 ## 🗂️ Repository Structure  
 
-📂 kuma-ai/
+📂 kairos-ai/
 ├── data_sources/
 │   ├── onchain_data/         # Fetches real-time data from Solana blockchain
 │   ├── sentiment_analysis/   # Social media sentiment tracking
